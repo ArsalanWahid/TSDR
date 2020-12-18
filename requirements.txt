@@ -1,0 +1,2 @@
+requests==2.25.1
+autopep8==1.5.4  

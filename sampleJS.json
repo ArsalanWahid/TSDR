@@ -1,0 +1,398 @@
+{
+    "trademarks": [
+        {
+            "status": {
+                "staff": {
+                    "examiner": {
+                        "number": null,
+                        "name": "LEASER, ANDREW C"
+                    },
+                    "paralegal": null,
+                    "ituParalegal": null,
+                    "lie": null,
+                    "chargeTo": null
+                },
+                "correspondence": {
+                    "freeFormAddress": [],
+                    "address": {
+                        "line1": "935 GRAVIER STREET STE 2020",
+                        "city": "NEW ORLEANS",
+                        "region": {
+                            "stateCountry": {
+                                "code": "LA",
+                                "name": "LOUISIANA"
+                            },
+                            "isoRegion": {
+                                "code": "LA",
+                                "name": "LOUISIANA"
+                            },
+                            "iso": {
+                                "code": "US",
+                                "name": "LOUISIANA"
+                            },
+                            "wipo": null
+                        },
+                        "postalCode": "70130",
+                        "countryCode": "US",
+                        "countryName": "UNITED STATES"
+                    },
+                    "attorneyName": "Abid Hussain",
+                    "attorneyEmail": {
+                        "authIndicator": "Y",
+                        "addresses": [
+                            "abid@snw.law"
+                        ]
+                    },
+                    "individualFullName": "Abid Hussain",
+                    "firmName": "STERNBERG, NACCARI & WHITE, LLC",
+                    "correspondantPhone": "504-383-0716",
+                    "correspondantEmail": {
+                        "authIndicator": "Y",
+                        "addresses": [
+                            "abid@snw.law",
+                            "alec.iplaw@gmail.com"
+                        ]
+                    }
+                },
+                "serialNumber": 88948849,
+                "designSearchList": [
+                    {
+                        "code": "05.03.25",
+                        "descriptions": [
+                            "Leaf, single",
+                            "Other leaves"
+                        ]
+                    },
+                    {
+                        "code": "26.05.28",
+                        "descriptions": [
+                            "Triangular shape (miscellaneous overall shape)",
+                            "Miscellaneous designs with overall triangular shape"
+                        ]
+                    },
+                    {
+                        "code": "26.17.09",
+                        "descriptions": [
+                            "Bands, curved",
+                            "Bars, curved",
+                            "Lines, curved",
+                            "Curved line(s), band(s) or bar(s)"
+                        ]
+                    },
+                    {
+                        "code": "26.17.25",
+                        "descriptions": [
+                            "Other lines, bands or bars"
+                        ]
+                    }
+                ],
+                "filingDate": "2020-06-04",
+                "usRegistrationNumber": "",
+                "filedAsTeasPlusApp": false,
+                "currentlyAsTeasPlusApp": false,
+                "filedAsTeasRfApp": false,
+                "currentlyAsTeasRfApp": false,
+                "supplementalRegister": false,
+                "amendPrincipal": false,
+                "amendSupplemental": false,
+                "trademark": true,
+                "certificationMark": false,
+                "serviceMark": false,
+                "collectiveMembershipMark": false,
+                "collectiveServiceMark": false,
+                "collectiveTradeMark": false,
+                "status": 653,
+                "statusDate": "2020-09-10",
+                "standardChar": false,
+                "markDrawingCd": "3",
+                "colorDrawingCurr": true,
+                "section2f": false,
+                "section2fPartial": false,
+                "others": false,
+                "publishedPrevRegMark": false,
+                "clsTotal": 1,
+                "filedUse": true,
+                "filedItu": false,
+                "filed44d": false,
+                "filed44e": false,
+                "filed66a": false,
+                "filedNoBasis": false,
+                "useCurr": true,
+                "ituCurr": false,
+                "sect44dCurr": false,
+                "sect44eCurr": false,
+                "sect66aCurr": false,
+                "noBasisCurr": false,
+                "useAmended": false,
+                "ituAmended": false,
+                "sect44dAmended": false,
+                "sect44eAmended": false,
+                "sect8Filed": false,
+                "sect8Acpt": false,
+                "sect8PartialAcpt": false,
+                "sect15Filed": false,
+                "sect15Ack": false,
+                "sect71Filed": false,
+                "sect71Acpt": false,
+                "sect71PartialAcpt": false,
+                "renewalFiled": false,
+                "changeInReg": false,
+                "lawOffAsgnCd": "M80",
+                "currLocationCd": "M8X",
+                "currLocationDt": "2020-09-10",
+                "chargeToLocation": null,
+                "phyLocation": null,
+                "phyLocationDt": null,
+                "extStatusDesc": "An Office action suspending further action on the application has been sent (issued) to the applicant.  To view all documents in this file, click on the Trademark Document Retrieval link at the top of this page.",
+                "intStatusDesc": null,
+                "markDrawDesc": "AN ILLUSTRATION DRAWING WHICH INCLUDES WORD(S)/ LETTER(S)/NUMBER(S)",
+                "currentLoc": "LAW OFFICE 117 - EXAMINING ATTORNEY ASSIGNED",
+                "colorClaimed": "The color(s) gold is/are claimed as a feature of the mark.",
+                "disclaimer": "\"CHEFS\"",
+                "descOfMark": "The mark consists of the literal element \"GLOW FLOW\" in large bold letters, colored in a gold leaf pattern. The literal element \"CHEFS\" appears in smaller, non-bold, gold font, centered and directly below the \"GLOW FLOW\" element. Centered and directly above the \"GLOW FLOW\" element is a symmetrical, geometric pattern made up of overlapping lines that form two loops on each side of the pattern, a loop at the top of the pattern, and a soft point at the bottom of the pattern. The geometric pattern is colored in a gold leaf pattern. The color white appearing in the mark represents background and/or transparent areas and is not part of the mark.",
+                "markElement": "GLOW FLOW CHEFS",
+                "parentOf": [],
+                "prevRegNumList": [],
+                "newLawOffAsgnCd": "117",
+                "lawOffAssigned": "LAW OFFICE 117",
+                "tm5Status": 2,
+                "tm5StatusDesc": "LIVE/APPLICATION/Under Examination",
+                "tm5StatusDef": "The trademark application has been accepted by the Office (has met the minimum filing requirements) and that this application has been assigned to an examiner.",
+                "physicalLocationHistory": [
+                    {
+                        "eventDate": "2020-06-08",
+                        "physicalLocation": "OUT",
+                        "physicalLocationDescription": "NO PHYSICAL FILE",
+                        "rsn": "21617262"
+                    },
+                    {
+                        "eventDate": "2020-06-19",
+                        "physicalLocation": "MADCD",
+                        "physicalLocationDescription": "NO PHYSICAL FILE",
+                        "rsn": "21800571"
+                    },
+                    {
+                        "eventDate": "2020-06-19",
+                        "physicalLocation": "MADCD",
+                        "physicalLocationDescription": "NO PHYSICAL FILE",
+                        "rsn": "21800666"
+                    },
+                    {
+                        "eventDate": "2020-06-19",
+                        "physicalLocation": "MADCD",
+                        "physicalLocationDescription": "NO PHYSICAL FILE",
+                        "rsn": "21800761"
+                    }
+                ],
+                "pseudoMark": null
+            },
+            "parties": {
+                "ownerGroups": {
+                    "10": [
+                        {
+                            "serialNumber": 88948849,
+                            "partyType": 10,
+                            "partyTypeDescription": "ORIGINAL APPLICANT",
+                            "reelFrame": null,
+                            "entityNum": 1,
+                            "entityType": {
+                                "code": 16,
+                                "description": "LIMITED LIABILITY COMPANY"
+                            },
+                            "name": "GLOW FLOW CHEFS LLC",
+                            "emailList": {
+                                "authIndicator": "Y",
+                                "addresses": [
+                                    "amy@glowflowchefs.com"
+                                ]
+                            },
+                            "composedOf": null,
+                            "dbaAkaFormerly": null,
+                            "assignment": null,
+                            "address1": "2315 Palmer Avenue",
+                            "city": "New Orleans",
+                            "addressStateCountry": {
+                                "stateCountry": {
+                                    "code": "LA",
+                                    "name": "LOUISIANA"
+                                },
+                                "isoRegion": {
+                                    "code": "LA",
+                                    "name": "LOUISIANA"
+                                },
+                                "iso": {
+                                    "code": "US",
+                                    "name": "LOUISIANA"
+                                },
+                                "wipo": null
+                            },
+                            "zip": "70118",
+                            "citizenship": {
+                                "stateCountry": {
+                                    "code": "LA",
+                                    "name": "LOUISIANA"
+                                },
+                                "isoRegion": {
+                                    "code": "LA",
+                                    "name": "LOUISIANA"
+                                },
+                                "iso": {
+                                    "code": "US",
+                                    "name": "LOUISIANA"
+                                },
+                                "wipo": null
+                            }
+                        }
+                    ]
+                }
+            },
+            "gsList": [
+                {
+                    "serialNumber": 88948849,
+                    "internationalClassPrime": true,
+                    "usClasses": [
+                        {
+                            "code": "046",
+                            "description": "Foods and Ingredients of Foods"
+                        }
+                    ],
+                    "internationalClasses": [
+                        {
+                            "code": "030",
+                            "description": "Staple Foods"
+                        }
+                    ],
+                    "pseudoClasses": [],
+                    "statusCode": "6",
+                    "statusDescription": "ACTIVE",
+                    "statusDate": "2020-06-25",
+                    "firstUseDate": 20171101,
+                    "firstUseInCommerceDate": 20171101,
+                    "firstUseDateDescription": null,
+                    "firstUseInCommerceDateDescription": null,
+                    "description": "Plant-based beverage mixes in the nature of concentrates, syrups or powders used in the preparation of tea and coffee based beverages",
+                    "classBasis": null,
+                    "primeClassCode": "030"
+                }
+            ],
+            "foreignInfoList": [],
+            "prosecutionHistory": [
+                {
+                    "entryNumber": 13,
+                    "entryCode": "GNS3",
+                    "entryType": "O",
+                    "proceedingNum": 6332,
+                    "entryDate": "2020-09-10T04:00:00.000+0000",
+                    "entryDesc": "NOTIFICATION OF LETTER OF SUSPENSION E-MAILED"
+                },
+                {
+                    "entryNumber": 12,
+                    "entryCode": "GNSL",
+                    "entryType": "S",
+                    "proceedingNum": 6332,
+                    "entryDate": "2020-09-10T04:00:00.000+0000",
+                    "entryDesc": "LETTER OF SUSPENSION E-MAILED"
+                },
+                {
+                    "entryNumber": 11,
+                    "entryCode": "CNSL",
+                    "entryType": "R",
+                    "proceedingNum": 86331,
+                    "entryDate": "2020-09-10T04:00:00.000+0000",
+                    "entryDesc": "SUSPENSION LETTER  WRITTEN"
+                },
+                {
+                    "entryNumber": 10,
+                    "entryCode": "TEME",
+                    "entryType": "I",
+                    "proceedingNum": 88889,
+                    "entryDate": "2020-09-09T04:00:00.000+0000",
+                    "entryDesc": "TEAS/EMAIL CORRESPONDENCE ENTERED"
+                },
+                {
+                    "entryNumber": 9,
+                    "entryCode": "CRFA",
+                    "entryType": "I",
+                    "proceedingNum": 88889,
+                    "entryDate": "2020-09-09T04:00:00.000+0000",
+                    "entryDesc": "CORRESPONDENCE RECEIVED IN LAW OFFICE"
+                },
+                {
+                    "entryNumber": 8,
+                    "entryCode": "TROA",
+                    "entryType": "I",
+                    "proceedingNum": 0,
+                    "entryDate": "2020-09-09T04:00:00.000+0000",
+                    "entryDesc": "TEAS RESPONSE TO OFFICE ACTION RECEIVED"
+                },
+                {
+                    "entryNumber": 7,
+                    "entryCode": "GNRN",
+                    "entryType": "O",
+                    "proceedingNum": 6325,
+                    "entryDate": "2020-09-08T04:00:00.000+0000",
+                    "entryDesc": "NOTIFICATION OF NON-FINAL ACTION E-MAILED"
+                },
+                {
+                    "entryNumber": 6,
+                    "entryCode": "GNRT",
+                    "entryType": "F",
+                    "proceedingNum": 6325,
+                    "entryDate": "2020-09-08T04:00:00.000+0000",
+                    "entryDesc": "NON-FINAL ACTION E-MAILED"
+                },
+                {
+                    "entryNumber": 5,
+                    "entryCode": "CNRT",
+                    "entryType": "R",
+                    "proceedingNum": 86331,
+                    "entryDate": "2020-09-08T04:00:00.000+0000",
+                    "entryDesc": "NON-FINAL ACTION  WRITTEN"
+                },
+                {
+                    "entryNumber": 4,
+                    "entryCode": "DOCK",
+                    "entryType": "D",
+                    "proceedingNum": 86331,
+                    "entryDate": "2020-09-05T04:00:00.000+0000",
+                    "entryDesc": "ASSIGNED TO EXAMINER"
+                },
+                {
+                    "entryNumber": 3,
+                    "entryCode": "MDSC",
+                    "entryType": "E",
+                    "proceedingNum": 0,
+                    "entryDate": "2020-06-26T04:00:00.000+0000",
+                    "entryDesc": "NOTICE OF DESIGN SEARCH CODE E-MAILED"
+                },
+                {
+                    "entryNumber": 2,
+                    "entryCode": "NWOS",
+                    "entryType": "I",
+                    "proceedingNum": 0,
+                    "entryDate": "2020-06-25T04:00:00.000+0000",
+                    "entryDesc": "NEW APPLICATION OFFICE SUPPLIED DATA ENTERED IN TRAM"
+                },
+                {
+                    "entryNumber": 1,
+                    "entryCode": "NWAP",
+                    "entryType": "I",
+                    "proceedingNum": 0,
+                    "entryDate": "2020-06-08T04:00:00.000+0000",
+                    "entryDesc": "NEW APPLICATION ENTERED IN TRAM"
+                }
+            ],
+            "relationshipBundleList": [],
+            "internationalData": false,
+            "publication": {
+                "serialNumber": 88948849,
+                "officialGazettes": []
+            },
+            "divisional": {
+                "serialNumber": 88948849,
+                "childOf": null,
+                "parentOfList": []
+            }
+        }
+    ]
+}
